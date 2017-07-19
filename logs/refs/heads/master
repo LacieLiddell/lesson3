@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 d9e84b64b4e17aa7033d1fb6dffadfe3e1572286 Vlad Levitsky <swimer96@mail.ru> 1500293740 +0300	commit (initial): test
+d9e84b64b4e17aa7033d1fb6dffadfe3e1572286 5b083e3462d3d6fa65b2005029dbf67329e4ec8b Vlad Levitsky <swimer96@mail.ru> 1500385142 +0300	commit: go
+5b083e3462d3d6fa65b2005029dbf67329e4ec8b 6c823f90ee10c3911c14f59fc2b29209e33ed821 Vlad Levitsky <swimer96@mail.ru> 1500385329 +0300	commit (amend): go
+6c823f90ee10c3911c14f59fc2b29209e33ed821 3a6aadbf78daee43bfd478adf5bacda8fec7cf79 Vlad Levitsky <swimer96@mail.ru> 1500385354 +0300	commit (amend): go
